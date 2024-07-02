@@ -1,0 +1,24 @@
+#image{
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  height: auto;
+}
+#img-caption{
+  text-align: center;
+}
+.time-line, p{
+  text-align: center;
+}
+#title{
+  text-align: center;
+}
+#main{
+  border: 3px black solid;
+  background-color: #DCDCDC; 
+}
+.info_t{
+  display: flex;
+  margin: 0 150px;
+  padding: 0px
+}
